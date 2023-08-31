@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://previews.123rf.com/images/vkulieva/vkulieva1602/vkulieva160200007/52452427-seamless-pattern-for-todo-list-universal-background.jpg);
+}
+
+
+.todo-container {
+  
+   
+    text-align: center;
+    background-image: url('https://previews.123rf.com/images/mangpor2004/mangpor20041605/mangpor2004160500099/56383918-to-do-list-background-template.jpg');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    list-style: none; 
+    padding: 20px; 
+}
+
+
+.todo-main {
+    display: flex;
+    justify-content: center;
+}
